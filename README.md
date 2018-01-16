@@ -15,7 +15,7 @@ My modifications to this are:
 This is as yet untested - once a first print has been made, fixes can be attempted.
 It needs also an M3 screw + nut.
 
-Once printed and cleaned up, push the insert into the cavity inside the sphere, then add an m3 nut in the catcher, and screw an m3 screw loosely into the nut. Screw the sides into place on the Y-axis extrusion, then push the Z-axis bearing into the part. Tighten the m4 screw to firmly hold the bearing part.
+Once printed and cleaned up, push the insert into the cavity inside the sphere, then add an m3 nut in the catcher, and screw an m3 screw loosely into the nut. Screw the sides into place on the Y-axis extrusion, then push the Z-axis bearing into the part. Tighten the m3 screw to firmly hold the bearing part.
 
 # Drag Chain
 
